@@ -1,0 +1,7 @@
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\bin\Debug\asssingment 87.exe.config
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\bin\Debug\asssingment 87.exe
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\bin\Debug\asssingment 87.pdb
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\obj\Debug\asssingment 87.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\obj\Debug\asssingment 87.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\obj\Debug\asssingment 87.exe
+C:\Users\marco\Desktop\myconsoleProject\myconsoleProject\asssingment 87\asssingment 87\obj\Debug\asssingment 87.pdb
