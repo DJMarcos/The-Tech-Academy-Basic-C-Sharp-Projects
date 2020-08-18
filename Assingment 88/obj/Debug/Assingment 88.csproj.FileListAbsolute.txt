@@ -1,0 +1,7 @@
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\bin\Debug\Assingment 88.exe.config
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\bin\Debug\Assingment 88.exe
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\bin\Debug\Assingment 88.pdb
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\obj\Debug\Assingment 88.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\obj\Debug\Assingment 88.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\obj\Debug\Assingment 88.exe
+C:\Users\marco\Desktop\myconsoleProject\Assingment 88\Assingment 88\obj\Debug\Assingment 88.pdb
