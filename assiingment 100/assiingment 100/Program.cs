@@ -11,16 +11,14 @@ namespace assiingment_100
             
 
             Console.WriteLine("Have you ever had a DUI?");
-            bool AnswerTrue = true;
-            bool AnswerFalse = false;
-            Console.ReadLine();
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("How many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
 
 
             Console.WriteLine("Qualified?");
-            bool qualified = (age > 15 && AnswerFalse == false && tickets < 1);
+            bool qualified = (age > 15 && DUI == false && tickets < 3);
             Console.WriteLine(qualified);
             Console.ReadLine();
 
