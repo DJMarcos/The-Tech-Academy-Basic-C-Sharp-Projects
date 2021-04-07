@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.exe
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.deps.json
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.runtimeconfig.json
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.runtimeconfig.dev.json
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.dll
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\bin\Debug\netcoreapp3.1\branching_assingnment.pdb
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.AssemblyInfo.cs
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.dll
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.pdb
+C:\Users\marco\source\repos\branching_assingnment\branching_assingnment\obj\Debug\netcoreapp3.1\branching_assingnment.genruntimeconfig.cache
