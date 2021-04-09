@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.AssemblyInfo.cs
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.exe
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.deps.json
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.runtimeconfig.json
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.runtimeconfig.dev.json
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.dll
+C:\Users\marco\source\repos\assingment_229\assingment_229\bin\Debug\netcoreapp3.1\assingment_229.pdb
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.dll
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.pdb
+C:\Users\marco\source\repos\assingment_229\assingment_229\obj\Debug\netcoreapp3.1\assingment_229.genruntimeconfig.cache
