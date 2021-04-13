@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.exe
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.deps.json
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.runtimeconfig.json
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.runtimeconfig.dev.json
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.dll
+C:\Users\marco\source\repos\array_assingment\array_assingment\bin\Debug\netcoreapp3.1\array_assingment.pdb
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.AssemblyInfo.cs
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.dll
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.pdb
+C:\Users\marco\source\repos\array_assingment\array_assingment\obj\Debug\netcoreapp3.1\array_assingment.genruntimeconfig.cache
