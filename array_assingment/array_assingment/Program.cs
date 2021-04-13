@@ -17,14 +17,14 @@ namespace array_assingment
             Console.WriteLine(stringList[number]);
             Console.ReadLine();
 
-            if (stringList.Count("2"))
-                Console.WriteLine("You chose the following index " + stringList.IndexOf(number));
+            if (number < 0 || number > 2)
+            {
+                Console.WriteLine("the following index dose not exists");
+            }
             else
-                Console.WriteLine("theres nothing for that index");
-
-
-
-
+            {
+                Console.WriteLine("you chose: " + stringList[number]);
+            }
 
             List<int> intList = new List<int>();
             intList.Add(10);
@@ -36,6 +36,15 @@ namespace array_assingment
             Console.WriteLine(intList[number2]);
             Console.ReadLine();
 
+            if (number2 < 0 || number2 > 2)
+            {
+                Console.WriteLine("the following index dose not exists");
+            }
+            else
+            {
+                Console.WriteLine("you chose: " + intList[number2]);
+            }
+
             List<string[]> strList = new List<string[]>() {
             new string[] {"h", "i", "i"},
             new string[] {"lets", "goo"},
@@ -46,6 +55,15 @@ namespace array_assingment
             int number3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(strList[number3]);
             Console.ReadLine();
+
+            if (number3 < 0 || number3 > 2)
+            {
+                Console.WriteLine("the following index dose not exists");
+            }
+            else
+            {
+                Console.WriteLine("you chose: " + strList[number3]);
+            }
 
 
 
