@@ -29,7 +29,7 @@ namespace branching_assingnment
                 Console.WriteLine("Please enter the package length");
                 int length = Convert.ToInt32(Console.ReadLine());
                 // multiply answers givin
-                int HWL = width * height * length;
+                int HWL = width + height + length;
                 //checking to see to talt amount is greater then 50
                 if (HWL > 50)
                 {
