@@ -10,6 +10,26 @@ namespace assingment_229
             Console.WriteLine("hellooo, lets see if you are eliigble, how old are you?");
             int answer = Convert.ToInt32(Console.ReadLine());
             bool Answer = answer == 21;
+            int Guess = 0;
+
+            while (Guess !=13)
+            {
+                Console.WriteLine("Try to guess my number: ");
+                Guess = Convert.ToInt32(Console.ReadLine());
+                
+                if (Guess < 13)
+                {
+                    Console.WriteLine("Sorry, but you need to guess higher"); 
+                }
+                else if (Guess > 13)
+                {
+                    Console.WriteLine("Sorry, but you need to guess lower");
+                }
+                else if (Guess == 13)
+                {
+                    Console.WriteLine("yes, thats corresct");
+                }
+            }
 
             do
             {
@@ -46,6 +66,8 @@ namespace assingment_229
             }
             while (!Answer);
             Console.ReadLine();
+
+
         }
     }
 }
