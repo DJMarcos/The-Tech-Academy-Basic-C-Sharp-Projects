@@ -38,33 +38,23 @@ namespace assingment_229
                     // adding different cases for the right age to be eligible
                     case 18:
                         Console.WriteLine("you said your 18, your not eligible.");
-                        Console.WriteLine("how old are you?");
-                        answer = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 15:
                         Console.WriteLine("you said your 15, your not eligible.");
-                        Console.WriteLine("how old are you?");
-                        answer = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 17:
                         Console.WriteLine("you said your 17, your not eligible.");
-                        Console.WriteLine("how old are you?");
-                        answer = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 21:
                         Console.WriteLine("you are old enough to work here");
-                        Console.WriteLine("how old are you?");
-                        answer = Convert.ToInt32(Console.ReadLine());
                         break;
                     // default would be anything over 21 should be eligible
                     default:
                         Console.WriteLine("you are not old enough to work here.");
-                        Console.WriteLine("how old are you?");
-                        answer = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
             }
-            while (!Answer);
+            while (answer != 21);
             Console.ReadLine();
 
 
