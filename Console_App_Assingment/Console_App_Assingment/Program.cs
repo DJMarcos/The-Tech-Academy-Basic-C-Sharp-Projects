@@ -70,7 +70,7 @@ namespace Console_App_Assingment
             string chose = Console.ReadLine();
             bool found = false;
 
-            for (int c = 0; c < nameString.Count - 1; c++)
+            for (int c = 0; c < nameString.Count; c++)
             {
                 //if responds is equal to any index on the namestring do a loop
                 if (chose == nameString[c])
@@ -86,7 +86,7 @@ namespace Console_App_Assingment
             //if responds is not(!) found in the index 
             if (!found)
             {
-                //display this
+                //display this 
                 Console.WriteLine("your input is not on the list");
             }
             Console.ReadLine();
@@ -102,6 +102,7 @@ namespace Console_App_Assingment
             //creating a loop that iterates through the list and then displays the indicates of the iteam matching the user
             for (int y = 0; y < someStrings.Count - 1; y++)
             {
+                //if what is typed in is equal to anything in the List (someStrings)
                 if (same == someStrings[y])
                 {
                     Console.WriteLine(y);
@@ -122,10 +123,12 @@ namespace Console_App_Assingment
             //creating a foreach loop that evalutes each item in the list, and displays a message the string and whether or not it has already appeard
             foreach (string name in notStrings)
             {
+                //this part of code is to check if there was any word that has repeated itself, if so print Console.WriteLine
                 if (tStrings.Contains(name))
                 {
                     Console.WriteLine("that word {0} already appears", name);
                 }
+                //making an else statement when determining if the any word has repeated again
                 else
                 {
                     tStrings.Add(name);
