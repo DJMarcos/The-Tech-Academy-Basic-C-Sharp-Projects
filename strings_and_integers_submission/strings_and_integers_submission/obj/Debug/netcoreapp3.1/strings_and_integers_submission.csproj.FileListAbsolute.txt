@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.exe
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.deps.json
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.runtimeconfig.json
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.runtimeconfig.dev.json
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.dll
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\bin\Debug\netcoreapp3.1\strings_and_integers_submission.pdb
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.AssemblyInfo.cs
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.dll
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.pdb
+C:\Users\marco\source\repos\strings_and_integers_submission\strings_and_integers_submission\obj\Debug\netcoreapp3.1\strings_and_integers_submission.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "strings_and_integers_submission/1.0.0": {
+        "runtime": {
+          "strings_and_integers_submission.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "strings_and_integers_submission/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
