@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.exe
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.deps.json
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.runtimeconfig.json
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.runtimeconfig.dev.json
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.dll
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\bin\Debug\netcoreapp3.1\calling_methods_assingment.pdb
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.AssemblyInfo.cs
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.dll
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.pdb
+C:\Users\marco\source\repos\calling_methods_assingment\calling_methods_assingment\obj\Debug\netcoreapp3.1\calling_methods_assingment.genruntimeconfig.cache
